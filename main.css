@@ -1,0 +1,82 @@
+body {
+    margin: 0;
+     background: #1B244A;
+}
+
+
+.container {
+    display: flex;
+    justify-content: space-around;
+}
+
+.btn {
+    margin-top: 70px;
+    max-width: 350px;
+    max-height: 40px;
+
+}
+#button1 {
+    color: #E5E5E5;
+    font-family: Verdana;
+    font-style: Bold;
+    font-size: 40px;
+    line-height: 35.89px;
+    align-self: Center;
+    vertical-align: Top;
+
+    
+}
+#button2 {
+    color: #E5E5E5;
+    font-family: Verdana;
+    font-style: Bold;
+    font-size: 40px;
+    line-height: 35.89px;
+    align-self: Center;
+    vertical-align: Top;   
+}
+.black1{
+    max-width: 350px;
+    align-content: center;
+    background-color: black;
+    color: #F94F6D;
+    border-radius: 20px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-size: 120px;
+    font-weight: 400;
+    line-height: 200px;
+    letter-spacing: 0em;
+    text-align: center;    
+}
+.black2{
+    max-width: 350px;
+    align-content: center;
+    background-color: black;
+    color: #F94F6D;
+    border-radius: 20px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    font-size: 120px;
+    font-weight: 400;
+    line-height: 200px;
+    letter-spacing: 0em;
+    text-align: center;    
+}
+.scores {
+    width: 60px;
+    height: 60px;
+    border-radius: 5px;
+    font-family: 'Cursed Timer ULiL', sans-serif;
+    border: 2px solid #9AABD8;
+    font-size: 30px;
+    fill :#E5E5E5;
+
+}
+#reset {
+    align-self: center;
+}
+#reset {
+    font-size: larger;
+    color: black;
+    border: 2px solid;
+
+}
